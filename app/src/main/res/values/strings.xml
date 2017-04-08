@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Hotel</string>
+
+    <string-array name="dog_space">
+            <item>ที่อยู่: ตำบล บางพลีใหญ่ อำเภอ บางพลี สมุทรปราการ 10540 Tel: 083-920-1122</item>
+            <item>13.609818</item>
+            <item>100.714935</item>
+    </string-array>
+
+    <string-array name="the_dog">
+        <item>ที่อยู่: บ้านเลขที่ 8 ซอยรัชดา36(เสือใหญ่อุทิศ) ถนนรัชดาภิเษกแขวงจันทรเกษม เขตจตุจักร กรุงเทพมหานคร Tel: 095-814-5924</item>
+        <item>13.69431</item>
+        <item>100.53271</item>
+    </string-array>
+
+    <string-array name="Cotton_dog">
+        <item>ที่อยู่: 0/14 ซอยกุมารทอง ถ.บางกรวย-จงถนอม ตำบลมหาสวัสดิ์ อำเภอบางกรวย นนทบุรี 11130 Tel: 02-879-9584</item>
+        <item>13.803991</item>
+        <item>100.3766155</item>
+    </string-array>
+
+    <string-array name="xob_box">
+        <item>ที่อยู่: 5345 ถนน ประชาสงเคราะห์ แขวง ดินแดง เขต ดินแดง กรุงเทพ 10400 Tel:062-862-2565</item>
+        <item>13.77548</item>
+        <item>100.56519</item>
+    </string-array>
+
+    <string-array name="borderjeck_dog">
+        <item>ที่อยู่ 88/3 หมู่2 ต.โป่ง อ.บางละมุง จ.ชลบุรี 20150 Tel: 081-861-3779</item>
+        <item>12.9432553</item>
+        <item>100.9178446</item>
+    </string-array>
+
+    <string-array name="heart_dog">
+        <item>ที่อยู่9/1 รามอินทรา58 แยก1 คันนายาว คันนายาว กรุงเทพ 10230 Tel: 095 910 5656</item>
+        <item>13.834773</item>
+        <item>100.667631</item>
+    </string-array>
+
+    <string-array name="bowwow_dog">
+        <item>ที่อยู่11/2 รังสิต คลอง 3 ถนนรังสิต-นครนายก ต.บึงยี่โถ อ.ธัญบุรี จ.ปทุมธานี 12120 Tel: 08-1409-9494, 02-549-8241-2</item>
+        <item>13.994111</item>
+        <item>100.66700</item>
+
+    </string-array>
+
+    <string-array name="dog_hotel">
+        <item>ที่อยู่ หมู่ 11 ซ.นวลจันทร์ 36 ถนนนวลจันทร์ แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพฯ 10230 Tel: 02-519-3737, 086-909-4477</item>
+        <item>13.9276238</item>
+        <item>100.3540333</item>
+    </string-array>
+
+    <string-array name="dog_sport">
+        <item>ที่อยู่ หมู่ 11 ซ.นวลจันทร์ 36 ถนนนวลจันทร์ แขวงคลองกุ่ม เขตบึงกุ่ม กรุงเทพฯ 10230 Tel: 02-519-3737, 086-909-4477</item>
+        <item>13.82372</item>
+        <item>100.62982</item>
+    </string-array>
+
+    <string-array name="doggie_doo">
+        <item>ที่อยู่ สาขารังสิต : 185 ซอยรังสิต นครนายก 19 ตำบลประชาธิปัติย์ อำเภอธัญญบุรี ปทุมธานี 12310 Tel: 081-828-5710,086-898-2828</item>
+        <item>13.7107341</item>
+        <item>100.4726285</item>
+    </string-array>
+
+    <string-array name="dog_united">
+        <item>ที่อยู่ 31/1 หมู่ 4 ถนนบ้านกล้วย – ไทรน้อย อำเภอไทรน้อย นนทบุรี 11150 tel: 085-113-3883</item>
+        <item>13.968126</item>
+        <item>100.328884</item>
+    </string-array>
+
+    <string-array name="dogs_cats">
+        <item>ที่อยู่ ต.บางพระ อ.ศรีราชา จ.ชลบุรี Tel: 081-864-5371</item>
+        <item>13.22700</item>
+        <item>100.95039</item>
+    </string-array>
+
+    <string-array name="happy_richy">
+        <item>ที่อยู่ ต.บางพระ อ.ศรีราชา จ.ชลบุรี Tel: 081-864-5371</item>
+        <item>13.978685</item>
+        <item>100.632116</item>
+    </string-array>
+
+    <string-array name="pet_paradise">
+        <item>ที่อยู่ 5/5 หมู่ 18 ถนนบรมราชชนนี แขวงศาลาธรรมสพน์ เขตทวีวัฒนา กรุงเทพฯ 10170 Tel: 02-448-1282, 089-111-6541</item>
+        <item>13.78494</item>
+        <item>100.38482</item>
+    </string-array>
+
+    <string-array name="phuket_dog">
+        <item>ที่อยู่ 54/21 หมู่6 ซอยวัดหลวงปู่สุภา ต.ฉลอง อ.เมือง จ.ภูเก็ต 83130 Tel: 076-390-815, 081-710-0454</item>
+        <item>7.84568</item>
+        <item>98.33439</item>
+    </string-array>
+
+    <string-array name="sabayjai_dog">
+        <item>ทที่อยู่ รามอินทรา 39 แยก 26 หรือ รามอินทรา 39 แยก 28 กรุงเทพฯ Tel: 081-632-3335, 02-973-0655</item>
+        <item>13.877570</item>
+        <item>100.633746</item>
+    </string-array>
+
+    <string-array name="sweet_home">
+        <item>เที่อยู่ 81/11 ซ.ชัยพฤกษ์ 16 แขวงตลิ่งชัน เขตตลิ่งชัน กรุงเทพฯ 10170 Tel: 081-926-2818</item>
+        <item>13.790732</item>
+        <item>100.461208</item>
+
+    </string-array>
+
+    <string-array name="ohyodgie_dog">
+        <item>ที่อยู่ 93 หมู่ 2, ดอนแก้ว, แม่ริม, เชียงใหม่ 50180 Tel: 080-860-4225</item>
+        <item>18.86933</item>
+        <item>98.96383</item>
+    </string-array>
+
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="users">
+        <item>aofza@mail.com</item>
+        <item>123456</item>
+    </string-array>
+</resources>
